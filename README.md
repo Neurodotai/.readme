@@ -1,16 +1,22 @@
-# Neuro
+# Geer
 
-> Neuro trading agent on Solana
+> The Intelligent Copilot for Solana
 
-Neuro is an **open-source**, full-stack application that brings together the power of LLM models and blockchain technology. Designed for the [Solana](https://solana.com/) ecosystem, Neur enables seamless interactions with DeFi protocols, NFTs, and much more.
+Geer is an **open-source**, full-stack application that brings together the power of LLM models and blockchain technology. Designed for the [Solana](https://solana.com/) ecosystem, Geer enables seamless interactions with DeFi protocols, NFTs, and much more.
 
+[![GitHub stars](https://img.shields.io/github/stars/GeerProjects/Geer-app?style=flat-square)](https://github.com/GeerProjects/Geer-app/stargazers)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/GeerProjects/Geer-app/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/GeerProjects/Geer-app?style=flat-square)](https://github.com/GeerProjects/Geer-app/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/GeerProjects/Geer-app?style=flat-square)](https://github.com/GeerProjects/Geer-app/pulls)
+[![Last commit](https://img.shields.io/github/last-commit/GeerProjects/Geer-app?style=flat-square)](https://github.com/GeerProjects/Geer-app/commits/main)
+[![Contributors](https://img.shields.io/github/contributors/GeerProjects/Geer-app?style=flat-square)](https://github.com/GeerProjects/Geer-app/graphs/contributors)
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=white&color=black)
 
-![Neuro](https://github.com/user-attachments/assets/9e8f4799-1eec-4e16-9aa3-78a6e08b115e)
-
-
-
+![Product Demo](./public/product.png)
 
 ## Features
 
