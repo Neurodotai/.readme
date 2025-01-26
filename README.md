@@ -6,7 +6,7 @@ Print is an **open-source**, full-stack application that brings together the pow
 
 ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=white&color=black)
 
-![Example](![questioners sol](https://github.com/user-attachments/assets/3b5d5127-703a-4de6-864c-1d0c8506de68)
+![Print](![questioners sol](https://github.com/user-attachments/assets/3b5d5127-703a-4de6-864c-1d0c8506de68)
 )
 
 
