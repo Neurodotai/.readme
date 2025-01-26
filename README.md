@@ -1,13 +1,13 @@
-# Neuro
+# Print
 
-> Neuro trading agent on Solana
 
-Neuro is an **open-source**, full-stack application that brings together the power of LLM models and blockchain technology. Designed for the [Solana](https://solana.com/) ecosystem, Neuro enables seamless interactions with DeFi protocols, NFTs, and much more.
+Print is an **open-source**, full-stack application that brings together the power of LLM models and blockchain technology. Designed for the [Solana](https://solana.com/) ecosystem, Print enables seamless interactions with DeFi protocols, NFTs, and much more.
 
 
 ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=white&color=black)
 
-![Neuro](https://github.com/user-attachments/assets/9e8f4799-1eec-4e16-9aa3-78a6e08b115e)
+![Neuro](![questioners sol](https://github.com/user-attachments/assets/3b5d5127-703a-4de6-864c-1d0c8506de68)
+)
 
 
 
